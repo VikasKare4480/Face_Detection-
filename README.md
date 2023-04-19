@@ -4,5 +4,5 @@ This is the face detection backend project usase the javascript, Node js, React 
 
 I am trying to complete this as soon as possible.
 
-Thank You for visitinig !!!!
+Thank You for visiting !!!!
 
